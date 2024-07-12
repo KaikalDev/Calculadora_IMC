@@ -1,11 +1,12 @@
+/* eslint-disable react/prop-types */
 import { useState } from "react";
 
 import style from './Formulario.module.css'
 
 const Formulario = ({ setImc }) => {
     
-    const [peso,setPeso] = useState(0)
-    const [altura,setAltura] = useState(0)
+    const [peso,setPeso] = useState('')
+    const [altura,setAltura] = useState('')
 
     const calculaIMC = (e) => {
         e.preventDefault();

@@ -1,6 +1,9 @@
 .tabela, .celula{
     border-collapse: collapse;
 }
+.tabela {
+    text-align: center;
+}
 
 .linha1 {
     background-color: greenyellow;
