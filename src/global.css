@@ -10,3 +10,15 @@
     width: 100%;
     margin: 0 auto;
 }
+
+.hero{
+    background-color: #F5EDDA;
+}
+
+.active {
+    display: block;
+}
+
+.unactive {
+    display: none;
+}

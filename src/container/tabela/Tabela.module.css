@@ -1,0 +1,38 @@
+.celula {
+    padding: 8px;
+    padding-inline: 14px;
+    background-color: #D8C8BB;
+    border: 2px solid #fff;
+}
+
+.celulaHeder {
+    padding: 8px;
+    padding-inline: 14px;
+    background-color: #fff;
+    border: 2px solid #fff;
+}
+
+.sectionTabela {
+    display: flex;
+    justify-content: center;
+    margin-top: 12px;
+    margin-bottom: 25px;
+}
+
+.title {
+    color: #998675;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+.paragrafo {
+    font-size: 15px;
+    color: #505050;
+    font-family: sans-serif;
+    margin-block: 10px;
+}
+
+.resposta {
+    margin-bottom: 25px;
+}
+

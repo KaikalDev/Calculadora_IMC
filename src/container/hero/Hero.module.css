@@ -1,0 +1,47 @@
+.imgHero {
+    width: 150px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.heroTitle {
+    color: black;
+    padding-top: 25px;
+    padding-bottom: 16px;
+    font-size: 100px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.title{
+    font-family: sans-serif;
+    color: #998675;
+    margin-bottom: 26px;
+    margin-top: 25px;
+    font-size: 25px;
+}
+
+.subTitle{
+    font-family: sans-serif;
+    color: #998675;
+    margin-bottom: 15px;
+    margin-top: 20px;
+    font-size: 17px;
+}
+
+.hr {
+    color: #D8C8BB;
+}
+
+.paragrafo {
+    font-size: 15px;
+    color: #505050;
+    font-family: sans-serif;
+    margin-block: 10px;
+}
+
+.lista {
+    list-style: decimal;
+    margin-left: 18px;
+}
